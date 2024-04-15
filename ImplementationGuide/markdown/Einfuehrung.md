@@ -2,11 +2,11 @@
 
 ----
 
-Version: 3.0.0
+Version: 4.0.0-rc
 
-Datum: 01.07.2023
+Datum: 15.04.2024
 
-Status: Aktiv
+Status: Draft
 
 Realm: Deutschland
 
