@@ -1,12 +1,16 @@
+# Work in Progress - Dies ist keine Finale Version
+Arbeitsstände lassen sich einsehen über : https://github.com/gematik/spec-ISiK-Sicherheit
+
+
 <img src="https://raw.githubusercontent.com/gematik/spec-ISiK-Connect/main-stufe-3/Material/images/Gematik_Logo_Flag.svg" alt="gematik logo" width="400"/>
 
 ----
 
-Version: 3.0.0
+Version: 4.0.0
 
 Datum: 01.07.2023
 
-Status: Aktiv
+Status: Draft
 
 Realm: Deutschland
 
